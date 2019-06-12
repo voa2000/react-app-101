@@ -1,5 +1,6 @@
 import React from "react";
 import "./App.css";
+import Movie from "./Movies";
 import avengers from "./images/avengers.png";
 import captain from "./images/captainmavel.jpg";
 import meninblack from "./images/meninblack.jpg";
@@ -9,18 +10,9 @@ function App() {
     <div className='App'>
       <h1>My Hollywood Movies App </h1>
 
-      <div>
-        <h2>Avengers Endgame</h2>
-        <img src={avengers} alt='Avengers' />
-      </div>
-      <div>
-        <h2>Captain America</h2>
-        <img src={captain} alt='Avengers' />
-      </div>
-      <div>
-        <h2>Men in Black</h2>
-        <img src={meninblack} alt='Avengers' />
-      </div>
+      <Movie title='Avengers Endgame' image={avengers} />
+      <Movie title='Captain America' image={captain} />
+      <Movie title='Men in Black International' image={meninblack} />
     </div>
   );
 }

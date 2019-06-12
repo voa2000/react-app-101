@@ -46,3 +46,7 @@ img {
     max-width: 100%;
     }
 ```
+## Sources
+1.  For React, HTML and JavaScript - https://www.w3schools.com/whatis/whatis_react.asp
+2.  For React - https://reactjs.org/
+3.  For CSS https://css-tricks.com/snippets/css/complete-guide-grid/

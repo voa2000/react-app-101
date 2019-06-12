@@ -14,9 +14,7 @@ We will be using VSCode editor and Node server.
 Go to https://code.visualstudio.com/ and download a version for your computer.
 
 2.  ###### Install homebrew
-```
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-```
+Homebrew. Homebrew is a package manager for the Mac — it makes installing most open source sofware (like Node) as simple as writing ```brew install node```. You can learn more about Homebrew at the Homebrew website. To install Homebrew just open Terminal and type ```ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"```. You’ll see messages in the Terminal explaining what you need to do to complete the installation process.
 3.  ###### Install node
 If you have brew installed
 ```

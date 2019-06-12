@@ -6,27 +6,27 @@ We will be using VSCode editor and Node server.
 1.  ###### To install visual studio code
 
 Go to https://code.visualstudio.com/ and download a version for your computer.
-###### Install homebrew
+2.  ###### Install homebrew
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
-###### Install node
+3.  ###### Install node
 If you have brew installed
 ```
 brew install node 
 ```
 or go to https://nodejs.org/en/
 
-###### Install create-react-app
+4.  ###### Install create-react-app
 ```
 npm install -g create-react-app
 ```
-###### To create a react app, in the terminal type
+5.  ###### To create a react app, in the terminal type
 ```
 create-react-app movie-app
 ```
 
-###### To run the node server
+6.  ###### To run the node server
 ```
 cd your app name
 npm start

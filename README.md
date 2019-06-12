@@ -1,5 +1,11 @@
 # Create React App
-Create React apps with no build configuration.
+
+> React is a JavaScript library created by Facebook
+
+> React is a User Interface (UI) library
+
+> React is a tool for building UI components
+
 We will be using VSCode editor and Node server.
 ## In this session, you are going to create a one page responsive app about Hollywood Movies.
 

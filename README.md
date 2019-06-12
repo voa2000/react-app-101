@@ -6,7 +6,7 @@ We will be using VSCode editor and Node server.
 1.  ###### To install visual studio code
 
 Go to https://code.visualstudio.com/ and download a version for your computer.
-2.  ###### Install homebrew
+2.   ###### Install homebrew
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```

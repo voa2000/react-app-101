@@ -11,9 +11,15 @@ brew install node
 ```
 npm install -g create-react-app
 ```
-###### Start react app
+###### To create a react app, in the terminal type
 ```
 create-react-app movie-app
+```
+
+###### To run the node server
+```
+cd your app name
+npm start
 ```
 
 ## CSS

@@ -5,6 +5,7 @@ export default function Movie(props) {
     <div>
       <h3>{props.title}</h3>
       <img src={props.image} alt={props.title} />
+      <p>{props.year}</p>
     </div>
   );
 }

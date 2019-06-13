@@ -9,10 +9,13 @@ function App() {
   return (
     <div className='App'>
       <h1>My Hollywood Movies App </h1>
-
-      <Movie title='Avengers Endgame' image={avengers} />
-      <Movie title='Captain America' image={captain} />
-      <Movie title='Men in Black International' image={meninblack} />
+      <Movie title='Avengers Endgame' image={avengers} year={"2019"} />
+      <Movie title='Captain America' image={captain} year={"2018"} />
+      <Movie
+        title='Men in Black International'
+        image={meninblack}
+        year={"2019"}
+      />
     </div>
   );
 }

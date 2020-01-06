@@ -1,4 +1,4 @@
-# Create React App
+# React Workshop
 
 > React is a JavaScript library created by Facebook
 

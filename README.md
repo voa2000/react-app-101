@@ -12,7 +12,7 @@
 
 ### In this session, you are going to create a multi step form using React and Material-UI
 
-## Step 1.  To install visual studio code
+## Step 1. To install visual studio code
 
 Go to https://code.visualstudio.com/ and download a version for your computer.
 
@@ -27,8 +27,7 @@ Go to https://nodejs.org/en/ download and install the LTS version for your envir
 Find out if you have node and npm installed by typing ```node -v and npm -v ```
 These should both return the versions installed on your workstation.
 
-## Step 3. Install create-react-app
-Type the following command
+## Step 3. To install create-react-app, in the terminal type
 
 ```
 npm install -g create-react-app
@@ -40,33 +39,37 @@ If you receive an access denided use this instead and it prompt you for your pas
 sudo npm install -g create-react-app
 ```
 
-## Step 4. Install Material-UI
+## Step 4. To install Material-UI, in the terminal type
 Type the following command to instal material-ui
 
 ```
 npm i material-ui
 ```
-5.  ###### To create a react app, in the terminal type
+
+## Step 5. To create a react app, in the terminal type
+
 ```
-create-react-app movie-app
+create-react-app my-multi-step-form-app
 ```
 
-6.  ###### To run the node server
+## Step 6. To run the node server, in the terminal type
+
 ```
-cd your app name
+cd my-multi-step-form-app
 npm start
 ```
+Your application will now to running on localhost port 3000 automatically
 
-## CSS
-###### In App.css add the following line
-```
-img {
-    max-width: 100%;
-    }
-```
+## Step 7. Load VSCode and load your project
+
+
+
 ## Sources
 1.  For React, HTML and JavaScript - https://www.w3schools.com/whatis/whatis_react.asp
 2.  For React - https://reactjs.org/
 3.  For CSS https://css-tricks.com/snippets/css/complete-guide-grid/
-## Herouku
+4.  For Material-UI - https://material-ui.com/
+
+
+## Heroku
 https://www.heroku.com/

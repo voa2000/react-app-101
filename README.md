@@ -17,16 +17,34 @@
 Go to https://code.visualstudio.com/ and download a version for your computer.
 
 ## Step 2. To install nodeJS 
-```
+
 Go to https://nodejs.org/en/ download and install the LTS version for your envirnment
 
 # These application are going to be installed using commandline.
 -  Windows - Commandline
 -  Mac - Terminal or iTerm2
 
-4.  ###### Install create-react-app
+Find out if you have node and npm installed by typing ```node -v and npm -v ```
+These should both return the versions installed on your workstation.
+
+## Step 3. Install create-react-app
+Type the following command
+
 ```
 npm install -g create-react-app
+```
+This should install create-react-app inorder to your to create react applications.
+If you receive an access denided use this instead and it prompt you for your password.
+
+```
+sudo npm install -g create-react-app
+```
+
+## Step 4. Install Material-UI
+Type the following command to instal material-ui
+
+```
+npm i material-ui
 ```
 5.  ###### To create a react app, in the terminal type
 ```

@@ -61,6 +61,10 @@ npm start
 Your application will now to running on localhost port 3000 automatically
 
 ## Step 7. Load VSCode and load your project
+-  Open VSCode
+-  Click of open workspace folder
+-  Navigate to your my-multi-step-form-app and click ok
+It should look like this
 
 
 

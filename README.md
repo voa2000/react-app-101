@@ -20,7 +20,7 @@ Go to https://code.visualstudio.com/ and download a version for your computer.
 
 Go to https://nodejs.org/en/ download and install the LTS version for your envirnment
 
-# These application are going to be installed using commandline.
+### These application are going to be installed using commandline.
 -  Windows - Commandline
 -  Mac - Terminal or iTerm2
 

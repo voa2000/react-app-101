@@ -6,27 +6,19 @@
 
 > React is a tool for building UI components
 
-We will be using VSCode editor and Node server.
-### In this session, you are going to create a multi step form
+> Facebook use this library for facebook which consist of appromately 500 components.
 
-1.  ### To install visual studio code
+> We will be these application VSCode editor,NodeJS, Material-UI, Create-React-App.
+
+### In this session, you are going to create a multi step form using React and Material-UI
+
+Step 1.  ### To install visual studio code
 
 Go to https://code.visualstudio.com/ and download a version for your computer.
 
-2.  ###### Install homebrew
->  Homebrew is a package manager for the Mac — it makes installing most open source sofware (like Node) as simple as writing ```brew install node```. 
-
->  You can learn more about Homebrew at the Homebrew website. https://brew.sh/
-
->  To install Homebrew just open Terminal and type ```ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"```. 
->  You’ll see messages in the Terminal explaining what you need to do to complete the installation process.
-
-3.  ###### Install node
-If you have brew installed
+Step 2. ### To install nodeJS 
 ```
-brew install node 
-```
-or go to https://nodejs.org/en/ download and install
+Go to https://nodejs.org/en/ download and install the LTS version for your envirnment
 
 4.  ###### Install create-react-app
 ```

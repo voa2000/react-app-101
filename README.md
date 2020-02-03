@@ -7,9 +7,9 @@
 > React is a tool for building UI components
 
 We will be using VSCode editor and Node server.
-## In this session, you are going to create a one page responsive app about .....
+### In this session, you are going to create a multi step form
 
-1.  ###### To install visual studio code
+1.  ### To install visual studio code
 
 Go to https://code.visualstudio.com/ and download a version for your computer.
 

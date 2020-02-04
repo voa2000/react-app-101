@@ -1,5 +1,5 @@
 # React Workshop
- <img src="/images/react-logo.png" height="100" alt="Screenshot"/>
+ <img src="/images/react-logo.png" height="100" alt="React Logo"/>
 
 > React is a JavaScript library created by Facebook
 

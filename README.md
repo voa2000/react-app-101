@@ -65,7 +65,7 @@ Your application will now to running on localhost port 3000 automatically
 -  Click of open workspace folder
 -  Navigate to your my-multi-step-form-app and click ok
 It should look like this
-
+ <img src="/images/vscode.png" height="400" alt="Screenshot"/>
 
 
 ## Sources

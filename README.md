@@ -68,6 +68,9 @@ Your application will now to running on localhost port 3000 automatically
 It should look like this
  <img src="/images/vscode.png" height="400" alt="Screenshot"/>
 
+## Project Structure
+
+Add flowchart
 
 ## Sources
 1.  For React, HTML and JavaScript - https://www.w3schools.com/whatis/whatis_react.asp

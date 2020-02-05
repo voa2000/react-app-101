@@ -20,6 +20,7 @@ Go to https://code.visualstudio.com/ and download a version for your computer.
 ## Step 2. To install nodeJS 
 
 Go to https://nodejs.org/en/ download and install the LTS version for your envirnment
+Node.js is an open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside of a browser.
 
 ### These application are going to be installed using commandline.
 -  Windows - Commandline

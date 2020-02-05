@@ -71,7 +71,15 @@ It should look like this
 
 ## Project Structure
 
-Add flowchart
+Create a folder and name it components in your src folder.
+
+In the components folder create these files.
+1.	UserForm.js
+2.	FormUserDetails.js
+3.	FormPersonalDetails.js
+4.	Confirm.js
+5.	Success.js
+
 
 ## Sources
 1.  For React, HTML and JavaScript - https://www.w3schools.com/whatis/whatis_react.asp

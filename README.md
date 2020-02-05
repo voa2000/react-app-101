@@ -13,11 +13,11 @@
 
 ### In this session, you are going to create a multi step form using React and Material-UI
 
-## Step 1. To install visual studio code
+## Step 1. To install Visual Studio Code
 
 Go to https://code.visualstudio.com/ and download a version for your computer.
 
-## Step 2. To install nodeJS 
+## Step 2. To install NodeJS 
 
 Go to https://nodejs.org/en/ download and install the LTS version for your envirnment
 Node.js is an open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside of a browser.

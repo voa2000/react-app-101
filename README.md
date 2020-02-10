@@ -45,8 +45,8 @@ sudo npm install -g create-react-app
 Type the following command to instal material-ui
 
 ```
-npm install material-ui
-npm install --save material-ui-icons
+npm install @material-ui/core
+
 ```
 
 ## Step 5. To create a react app, in the terminal type

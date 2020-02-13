@@ -24,7 +24,7 @@ Node.js is an open-source, cross-platform, JavaScript runtime environment that e
 
 ## These applications are going to be installed using commandline.
 -  Windows - Commandline
--  Mac - Terminal or iTerm2
+-  Mac - Terminal or iTerm2 
 
 Find out if you have node and npm installed by typing ```node -v and npm -v ```
 These should both return the versions installed on your workstation.

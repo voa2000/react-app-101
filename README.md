@@ -71,7 +71,6 @@ It should look like this
  <img src="/images/vscode.png" height="400" alt="Screenshot"/>
 
 ## Project Structure
-
 Create a folder and name it components in your src folder.
 
 In the components folder create these files.
